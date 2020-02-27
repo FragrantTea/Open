@@ -5,4 +5,4 @@ let name = "Ilya";
 
 //console.log(typeof(answer));
 
-console.log(46%7);
+console.log(46%8);
